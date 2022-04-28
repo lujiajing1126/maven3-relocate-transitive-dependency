@@ -2,7 +2,7 @@ name: Java CI
 
 on: [ push ]
 
-jobs:
+jobs:g
   build:
     runs-on: ubuntu-latest
     strategy:
